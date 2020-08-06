@@ -1,3 +1,5 @@
+<img src="ar_drone.jpg">
+
 ## Project Overview
 The **Quadcopter** or **Quadrotor Helicopter** is becoming an increasingly popular aircraft for both personal and professional use. Its maneuverability lends itself to many applications, from last-mile delivery to cinematography, from acrobatics to search-and-rescue.
 
